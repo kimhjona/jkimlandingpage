@@ -1,0 +1,25 @@
+.text {
+  text-align: center;
+  color: black;
+  font: bold 29px Arial, serif;
+}
+
+a {
+  text-decoration: none;
+  color: #336600;
+}
+
+a:hover 
+{
+     color:#1a3300; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+body {
+  background-image: url("hills4.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
