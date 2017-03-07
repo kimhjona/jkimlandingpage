@@ -6,7 +6,8 @@
 
 a {
   text-decoration: none;
-  color: #336600;
+  color: darkgreen;
+  text-shadow: -1px 0 lightblue, 0 1px lightblue, 1px 0 lightblue, 0 -1px lightblue;
 }
 
 a:hover 
