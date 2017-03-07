@@ -1,17 +1,19 @@
+@import url(href='//fonts.googleapis.com/css?family=Headland One');
+
 .text {
   text-align: center;
   color: black;
-  font: bold 29px Arial, serif;
+  font-family: 'Headland One'; font-size: 35px;
 }
 
 a {
   text-decoration: none;
   color: darkgreen;
+  font-family: 'Headland One';
   text-shadow: -1px 0 lightblue, 0 1px lightblue, 1px 0 lightblue, 0 -1px lightblue;
 }
 
-a:hover 
-{
+a:hover {
      color:#1a3300; 
      text-decoration:none; 
      cursor:pointer;  
