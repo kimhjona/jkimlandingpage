@@ -1,16 +1,16 @@
-@import url(href='//fonts.googleapis.com/css?family=Rubik');
+@import url(href='//fonts.googleapis.com/css?family=Quicksand');
 
 .text {
   text-align: center;
   color: black;
-  font-family: 'Rubik'; font-size: 34px;
+  font-family: 'Quicksand'; font-size: 34px;
   font-weight: bold;
 }
 
 a {
   text-decoration: none;
   color: darkblue;
-  font-family: 'Rubik';
+  font-family: 'Quicksand';
   text-shadow: -1px 0 lightblue, 0 1px lightblue, 1px 0 lightblue, 0 -1px lightblue;
 }
 
